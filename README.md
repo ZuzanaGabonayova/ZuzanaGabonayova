@@ -8,4 +8,4 @@ I'm Zuzana Gabonayova, a web development student and passionate Web developer.
 
 ### What I currently Do
 
-- 🔭 I’m currently studying Web Developement at EASV.
+- 🔭 I’m currently studying Web Developement Bachelor's degree at EASV.
