@@ -6,16 +6,15 @@ I'm a web development student and passionate Web developer, seeking for a challe
 
 [![Linkedin Badge](https://img.shields.io/badge/-Zuzana-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuzanagabonayova/)
 
+OR
+
+📫 Contact me at <a href="mailto:gabonayova.zuzka@gmail.com">gabonayova.zuzka@gmail.com</a>
+
 ### What I currently Do
 
 - 🔭 I’m currently studying Web Developement Bachelor's degree at EASV.
 - 🖥️ I'm a Web Administrator for [Nostalgie Restaurant](https://nostalgie.sk/)
 
-<ul>
-  <li>
-    📫 Contact me at <a href="mailto:gabonayova.zuzka@gmail.com">gabonayova.zuzka@gmail.com</a>
-  </li>
-</ul>
 
 <p><strong>Github stats:</strong></p>
 
