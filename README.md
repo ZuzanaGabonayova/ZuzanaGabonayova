@@ -1,6 +1,6 @@
-##  Hi I'm Zuzana <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+###  Hi there, I'm Zuzana <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Zuzana Gabonayova, a web development student and passionate Web developer, seeking for a challenging internship. 
+I'm a web development student and passionate Web developer, seeking for a challenging internship. 
 
 :mailbox: Reach me out!
 
@@ -9,7 +9,13 @@ I'm Zuzana Gabonayova, a web development student and passionate Web developer, s
 ### What I currently Do
 
 - 🔭 I’m currently studying Web Developement Bachelor's degree at EASV.
-- 🖥️ I'm a Web Administrator for [Nostalgie Restaurant](https://nostalgie.sk/)  
+- 🖥️ I'm a Web Administrator for [Nostalgie Restaurant](https://nostalgie.sk/)
+
+<ul>
+  <li>
+    📫 Contact me at <a href="mailto:gabonayova.zuzka@gmail.com">gabonayova.zuzka@gmail.com</a>
+  </li>
+</ul>
 
 <p><strong>Github stats:</strong></p>
 
