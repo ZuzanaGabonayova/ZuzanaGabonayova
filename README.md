@@ -9,6 +9,7 @@ I'm Zuzana Gabonayova, a web development student and passionate Web developer, s
 ### What I currently Do
 
 - 🔭 I’m currently studying Web Developement Bachelor's degree at EASV.
+- 🖥️ I'm a Web Administrator for [Nostalgie Restaurant](https://nostalgie.sk/)  
 
 <p><strong>Github stats:</strong></p>
 
